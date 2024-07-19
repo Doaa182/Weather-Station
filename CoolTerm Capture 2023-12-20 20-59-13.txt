@@ -1,0 +1,21 @@
+Temperature = 19.80 C
+Humidity = 66.00 %
+Dew Point = -67.00 C
+Pressure = 987.00 hPa
+Altitude = 216.80 m
+Sea Level Pressure = 96233.18 Pa
+-------------------------------------
+Temperature = 19.80 C
+Humidity = 66.00 %
+Dew Point = -67.00 C
+Pressure = 987.00 hPa
+Altitude = 217.73 m
+Sea Level Pressure = 96211.75 Pa
+-------------------------------------
+Temperature = 19.80 C
+Humidity = 66.00 %
+Dew Point = -67.00 C
+Pressure = 987.00 hPa
+Altitude = 217.73 m
+Sea Level Pressure = 96232.20 Pa
+-------------------------------------
